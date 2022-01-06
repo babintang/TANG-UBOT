@@ -1,6 +1,6 @@
 {
-  "name": "DIOR-UBOT",
-  "description": "[DIOR-UBOT] DEPLOY CUMAN BUAT GCAST NGENTOT ALAY GOBLOK!.",
+  "name": "TANG-UBOT",
+  "description": "[TANG-UBOT] DEPLOY CUMAN BUAT GCAST NGENTOT ALAY GOBLOK!.",
   "logo": "https://telegra.ph/file/5e0c4d6ff521d55d164e7.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DIORrios285/DIOR-UBOT",
-  "telegram": "https://t.me/uurfavboys1",
-  "success_url": "https://t.me/fandasupport",
+  "repository": "https://github.com/babintang/TANG-UBOT",
+  "telegram": "https://t.me/heyytang",
+  "success_url": "https://t.me/bntgajg",
   "stack": "container",
   "env": {
     "API_KEY": {
